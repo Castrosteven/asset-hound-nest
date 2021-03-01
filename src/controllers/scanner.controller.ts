@@ -60,4 +60,5 @@ export class ScannerController {
       return this.scannerService.getBiosInfo(address);
     }
   }
+
 }
